@@ -1,0 +1,16 @@
+---
+title: "My new post"
+author: "Harlow Malloc"
+date: "2024-06-07"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+This is my new post
+---
+
+This is a post with executable code.
+
+```{r}
+1 + 1
+```
