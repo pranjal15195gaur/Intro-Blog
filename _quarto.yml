@@ -3,14 +3,29 @@ project:
   output-dir: docs
 
 website:
-  title: "Intro Blog"
+  title: "Pranjal's Blog"
   navbar:
     right:
       - about.qmd
+      - text: Home
+        href: https://pranjal15195gaur.github.io/Portfolio_Website/
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/pranjal15195gaur
+      - icon: linkedin
+        href: https://www.linkedin.com/in/pranjal-gaur-601707262/
+      - icon: instagram
+        href: https://www.instagram.com/pranjal15195gaur/
+  page-footer:
+    left: "Website made with [Quarto](https://quarto.org/), by Pranjal Gaur."
+    right:
+      - icon: github
+        href: https://github.com/pranjal15195gaur
+      - icon: linkedin
+        href: https://www.linkedin.com/in/pranjal-gaur-601707262/
+      - icon: instagram
+        href: https://www.instagram.com/pranjal15195gaur/
+      - icon: envelope
+        href: mailto:pranjal.gaur@iitgn.ac.in
 format:
   html:
     theme: cosmo
