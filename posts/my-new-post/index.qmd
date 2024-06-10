@@ -6,8 +6,7 @@ categories: [news, code, analysis]
 image: "image.jpg"
 ---
 
-This is my new post
----
+## This is my new post
 
 This is a post with executable code.
 
